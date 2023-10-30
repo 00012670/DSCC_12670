@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dinora\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dinora\\.nuget\\packages"
+    ]
+  }
+}
