@@ -59,7 +59,7 @@ namespace API.Repositories
         public void UpdateProgress(Progress progress)
         {
             var existingProgress = _dbContext.Progresses.Find(progress.ID);
-            existingProgress.Habit.ID = progress.Habit.ID;
+           // existingProgress.Habit.ID = progress.Habit.ID;
             existingProgress.HabitProgress = progress.HabitProgress;
             existingProgress.IsCompleted = progress.IsCompleted;
             existingProgress.Note = progress.Note;

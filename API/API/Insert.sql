@@ -34,16 +34,16 @@ VALUES
 ('Running', 4, 1, '2023-10-25'),
 ('Meditation', 7, 2, '2023-10-25'),
 ('Eat healthy foods', 7, 1, '2023-10-25'),
-('Write in a journal', 1, 7, '2023-10-25'),
-('Drink water', 8, 7, '2023-10-25'),
-('Wake up early', 1, 7, '2023-10-30'),
-('Learn a new language', 30, 7, '2023-08-30'),
-('Play a musical instrument', 60, 7, '2023-09-30'),
+('Write in a journal', 1, 0, '2023-10-25'),
+('Drink water', 8, 2, '2023-10-25'),
+('Wake up early', 1, 1, '2023-10-30'),
+('Learn a new language', 30, 2, '2023-08-30'),
+('Play a musical instrument', 60, 0, '2023-09-30'),
 ('Volunteer', 2, 1, '2023-10-30'),
-('Cook a healthy meal', 3, 7, '2023-09-30'),
-('Spend time with loved ones', 1, 7, '2023-10-30'),
-('Spend 1 hour outside', 1, 7, '2023-10-31'),
-('Save $10', 1, 7, '2023-10-31');
+('Cook a healthy meal', 3, 0, '2023-09-30'),
+('Spend time with loved ones', 1, 2, '2023-10-30'),
+('Spend 1 hour outside', 1, 1, '2023-10-31'),
+('Save $10', 1, 0, '2023-10-31');
 
 
 

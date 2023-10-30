@@ -4,7 +4,7 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Progresses</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -27,7 +27,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.EndDate)
             </th>
-            <th></th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -40,8 +40,8 @@
                 <td>
                     @Html.DisplayFor(modelItem => item.HabitProgress)
                 </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.IsCompleted)
+                <td class="@(item.IsCompleted ? "completed" : "not-completed")">
+                    @Html.CheckBoxFor(modelItem => item.IsCompleted)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Note)
@@ -51,7 +51,7 @@
                 </td>
                 <td>
                     @Html.ActionLink("Edit", "Edit", new {id=item.ID}) |
-                    @Html.ActionLink("Details", "Details", new {id=item.ID}) |
+                    @Html.ActionLink("View", "Details", new {id=item.ID}) |
                     @Html.ActionLink("Delete", "Delete", new {id=item.ID})
                 </td>
             </tr>
