@@ -8,3 +8,13 @@ C:\Users\Dinora\Desktop\BIS6\Semester1\Cloud\DSCC.CW1.00012670\API\DataBaseAcces
 C:\Users\Dinora\Desktop\BIS6\Semester1\Cloud\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.csproj.CoreCompileInputs.cache
 C:\Users\Dinora\Desktop\BIS6\Semester1\Cloud\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.dll
 C:\Users\Dinora\Desktop\BIS6\Semester1\Cloud\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.pdb
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\bin\Debug\netcoreapp3.1\DataBaseAccess.deps.json
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\bin\Debug\netcoreapp3.1\DataBaseAccess.dll
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\bin\Debug\netcoreapp3.1\DataBaseAccess.pdb
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.AssemblyInfoInputs.cache
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.AssemblyInfo.cs
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.dll
+C:\Users\Dinora\Desktop\DSCC.CW1.00012670\API\DataBaseAccess\obj\Debug\netcoreapp3.1\DataBaseAccess.pdb

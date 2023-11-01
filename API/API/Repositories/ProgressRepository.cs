@@ -8,8 +8,8 @@ namespace API.Repositories
 {
     public class ProgressRepository : IProgressRepository
     {
-        private readonly HabitTrackerContext _dbContext;
-        public ProgressRepository(HabitTrackerContext dbContext)
+        private readonly DataContext _dbContext;
+        public ProgressRepository(DataContext dbContext)
         {
             _dbContext = dbContext;
         }

@@ -13,6 +13,9 @@
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.Habit.Name)
             </th>
             <th>
@@ -34,6 +37,9 @@
         @foreach (var item in Model)
         {
             <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Habit.ID)
+                </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Habit.Name)
                 </td>

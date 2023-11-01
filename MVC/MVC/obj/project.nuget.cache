@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6K6qUVdveLb5OCMm1cG47qw94a/8lJ4eMAZ/n7iB/QZKaG2oVKE6NWrpBfT0sL3EC8RPj31EiYdBXSX4mtVuKQ==",
+  "dgSpecHash": "agycpjJj5EKIA/D0CYqtO6lb9nblKeTJrdf0mhlSR5Otewr8Ztgepd/aJwcd2vqX3fR/+0hZKPSjyIXkspLYCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dinora\\Desktop\\BIS6\\Semester1\\Cloud\\DSCC.CW1.00012670\\MVC\\MVC\\MVC.csproj",
+  "projectFilePath": "C:\\Users\\Dinora\\Desktop\\DSCC.CW1.00012670\\MVC\\MVC\\MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dinora\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
     "C:\\Users\\Dinora\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

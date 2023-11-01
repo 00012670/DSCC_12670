@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dinora\\Desktop\\BIS6\\Semester1\\Cloud\\DSCC.CW1.00012670\\API\\DataBaseAccess\\DataBaseAccess.csproj": {}
+    "C:\\Users\\Dinora\\Desktop\\DSCC.CW1.00012670\\API\\DataBaseAccess\\DataBaseAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dinora\\Desktop\\BIS6\\Semester1\\Cloud\\DSCC.CW1.00012670\\API\\DataBaseAccess\\DataBaseAccess.csproj": {
+    "C:\\Users\\Dinora\\Desktop\\DSCC.CW1.00012670\\API\\DataBaseAccess\\DataBaseAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dinora\\Desktop\\BIS6\\Semester1\\Cloud\\DSCC.CW1.00012670\\API\\DataBaseAccess\\DataBaseAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Dinora\\Desktop\\DSCC.CW1.00012670\\API\\DataBaseAccess\\DataBaseAccess.csproj",
         "projectName": "DataBaseAccess",
-        "projectPath": "C:\\Users\\Dinora\\Desktop\\BIS6\\Semester1\\Cloud\\DSCC.CW1.00012670\\API\\DataBaseAccess\\DataBaseAccess.csproj",
+        "projectPath": "C:\\Users\\Dinora\\Desktop\\DSCC.CW1.00012670\\API\\DataBaseAccess\\DataBaseAccess.csproj",
         "packagesPath": "C:\\Users\\Dinora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dinora\\Desktop\\BIS6\\Semester1\\Cloud\\DSCC.CW1.00012670\\API\\DataBaseAccess\\obj\\",
+        "outputPath": "C:\\Users\\Dinora\\Desktop\\DSCC.CW1.00012670\\API\\DataBaseAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dinora\\AppData\\Roaming\\NuGet\\NuGet.Config",

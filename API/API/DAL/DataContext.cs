@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.DAL
 {
-    public class HabitTrackerContext : DbContext
+    public class DataContext : DbContext
     {
-        public HabitTrackerContext(DbContextOptions<HabitTrackerContext> o) : base(o)
+        public DataContext(DbContextOptions<DataContext> o) : base(o)
         {
             Database.EnsureCreated();
         }

@@ -7,8 +7,8 @@ namespace API.Repositories
 {
     public class HabitRepository : IHabitRepository
     {
-        private readonly HabitTrackerContext _dbContext;
-        public HabitRepository(HabitTrackerContext dbContext)
+        private readonly DataContext _dbContext;
+        public HabitRepository(DataContext dbContext)
         {
             _dbContext = dbContext;
         }

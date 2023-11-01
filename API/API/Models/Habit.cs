@@ -6,6 +6,8 @@ namespace API.Models
     {
         public int ID { get; set; }
         public string Name { get; set; }
+       // public string Description { get; set; }
+
         public int Frequency { get; set; }
         public TargerFrequency Repeat { get; set; }
         public DateTime StartDate { get; set; }
